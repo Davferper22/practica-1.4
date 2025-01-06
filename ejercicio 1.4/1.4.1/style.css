@@ -1,0 +1,46 @@
+
+body {
+    font-family: "Times New Roman", serif;
+    margin: 20px;
+    background-color: #ffffff;
+    color: #000000;
+    line-height: 1.5;
+}
+
+
+h1 {
+    text-align: left;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    font-style: italic;
+    text-transform: lowercase;
+}
+
+
+ul {
+    list-style: circle;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 15px;
+}
+
+ol {
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
+ol[type="I"] {
+    margin-left: 30px;
+}
+
+
